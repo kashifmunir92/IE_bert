@@ -1,0 +1,12 @@
+__pycache__
+nohup.out
+logs/*.log
+*.bin
+*.pyc
+/pretrain_model/pytorch_model.bin
+.conda
+.bash_history
+.local
+.pip
+.ssh
+.cache

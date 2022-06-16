@@ -1,0 +1,12 @@
+http://maven.qizhidao.net:8081/repository/local-pypl/packages/torch/1.7.0+cu110/torch-1.7.0+cu110-cp37-cp37m-linux_x86_64.whl
+boto3==1.11.11
+requests==2.22.0
+tqdm==4.42.1
+regex==2020.1.8
+sacremoses==0.0.38
+sentencepiece==0.1.95
+hdfs==2.6.0
+requests_kerberos==0.14.0
+impyla
+numpy
+typing_extensions

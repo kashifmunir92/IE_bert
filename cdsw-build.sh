@@ -1,0 +1,1 @@
+pip install -r requirements.txt -i http://maven.qizhidao.net:8081/repository/algo/simple/ --trusted-host maven.qizhidao.net -f https://download.pytorch.org/whl/torch_stable.html
